@@ -1,0 +1,11 @@
+Superstore Sales Dataset
+
+Technology category generates the highest total sales, indicating strong customer demand for tech products.
+
+West region is the top-performing region and contributes the largest share of overall sales.
+
+The Consumer segment records the highest sales compared to Corporate and Home Office segments.
+
+Furniture category shows comparatively lower profit margins despite having moderate sales, suggesting higher costs or discounts.
+
+Central region has lower sales and profit margins, indicating potential areas for business improvement and better cost control.
